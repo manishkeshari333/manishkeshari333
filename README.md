@@ -43,12 +43,10 @@
   - Angular, HTML5, CSS3, TypeScript, PrimeNG, Bootstrap
 - **DevOps & Tools**:  
   - Docker, Jenkins, Git, GitHub, Postman, Figma
-- **Cloud**:  
-  - Amazon Web Services (AWS), Google Cloud Platform (GCP)
 - **Testing Frameworks**:  
   - JUnit, Mockito
 - **Others**:  
-  - WebSocket, API Gateway, OAuth2
+  - WebSocket, API Gateway, JWT
 
 ---
 
@@ -93,7 +91,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkeshari333&show_icons=true&locale=en&layout=compact" alt="manishkeshari333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkeshari333&show_icons=true&locale=en" alt="manishkeshari333" /></p>
-
----
-
-This version provides more detailed information for recruiters, emphasizing your professional experience, projects, skills, and how to connect with you.
