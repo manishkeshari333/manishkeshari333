@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Bizkarm web Application**
 
-- 🌱 I’m currently learning **Spring Batch,Catche**
+- 🌱 I’m currently learning **Spring Batch & cache**
 
 - 💬 Ask me about **Java, Spring Boot, Spring Data JPA, Kafka, Microservices, Angular, HTML, CSS, Websocket**
 
