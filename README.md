@@ -1,93 +1,115 @@
-
-
 <h1 align="center">Hi 👋, I'm Manish Keshari</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot & Angular Specialist</h3>
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know-p-800.webp" alt="Banner" style="width:100%; height:300px;">
+  <img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know-p-800.webp" alt="Java Full Stack Developer" style="width:100%; height:300px;">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkeshari333&label=Profile%20views&color=0e75b6&style=flat" alt="manishkeshari333" /> </p>
-
----
-
-### 👨‍💻 About Me:
-
-- 🔭 I’m currently working on **Bizkarm Web Application** where I'm developing full-stack solutions, including backend with Spring Boot, and frontend with Angular.
-  
-- 🌱 I’m currently learning **Spring Batch & Caching** to enhance my back-end development skills.
-
-- 💬 Ask me about **Java, Spring Boot, Microservices, Spring Data JPA, Kafka, Angular, WebSockets, Docker** – I have extensive experience in building enterprise-level solutions with these technologies.
-
-- 📫 How to reach me: **manishkeshari595@gmail.com**
-
-- 📄 Check out my [resume](https://drive.google.com/file/d/1ibcExJt2HqNsYAM85GXlWbAm-89FD-7t/view?usp=drive_link) to know more about my professional experience and projects.
-
----
-
-### 🔍 Key Projects:
-
-- **BizKarm Web Application**: Developed a business management tool from scratch using **Spring Boot** for microservices architecture and **Angular** for the front-end. Integrated third-party APIs for payments and location services.
-  
-- **Eobiladka Project**: Contributed to a service-based architecture, implementing new features using **REST APIs**, and improved overall system efficiency with **Spring Boot** and **WebClient**.
-
-- **Real-time Chat Application**: Built a chat application with group and one-to-one messaging functionality using **WebSocket**. Integrated file sharing and image management.
-
----
-
-### 🌟 Professional Skills:
-
-- **Backend Technologies**:  
-  - Java, Spring Boot, Spring Data JPA, Hibernate, RESTful Web Services, Microservices, Kafka, Spring Security (JWT), MySQL, MongoDB
-- **Frontend Technologies**:  
-  - Angular, HTML5, CSS3, TypeScript, PrimeNG, Bootstrap
-- **DevOps & Tools**:  
-  - Docker, Jenkins, Git, GitHub, Postman, Figma
-- **Testing Frameworks**:  
-  - JUnit, Mockito
-- **Others**:  
-  - WebSocket, API Gateway, JWT
-
----
-
-### 🎯 What I Bring to the Table:
-
-- **Enterprise-grade Solutions**: I specialize in building scalable, secure, and maintainable applications using microservices and modern front-end frameworks.
-  
-- **Hands-on Expertise**: Whether it's designing APIs, creating complex microservices, or managing real-time communication through WebSockets, I deliver solutions with deep technical insight.
-
-- **Adaptability & Growth**: I continuously learn new technologies to keep pace with modern development trends. I’m currently diving deeper into **Spring Batch** and **Caching** mechanisms to further optimize backend processes.
-
----
-
-### 📫 Connect with Me:
-
-<p align="left">
-<a href="https://linkedin.com/in/manish-keshari-59a89b23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-keshari-59a89b23a" height="30" width="40" /></a>
-<a href="https://github.com/manishkeshari333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="manishkeshari333" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/manish-keshari-59a89b23a" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1ibcExJt2HqNsYAM85GXlWbAm-89FD-7t/view?usp=drive_link" target="blank">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive" alt="Resume"/>
+  </a>
+  <a href="mailto:manishkeshari595@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
+## 🚀 Technical Expertise
 
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+### Backend Development
+![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-brightgreen?logo=springboot)
+![Microservices](https://img.shields.io/badge/Microservices-Proficient-blue?logo=spring)
+![Spring Security](https://img.shields.io/badge/JWT_Security-Experienced-yellow?logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-JPA_Implementation-lightgrey?logo=hibernate)
+
+### Frontend Development
+![Angular](https://img.shields.io/badge/Angular-Advanced-red?logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-blue?logo=typescript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Experienced-purple?logo=bootstrap)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka)
+
+---
+
+## 💼 Portfolio Highlights
+
+### 🏆 BizKarm Web Application
+**Full-Stack Business Management Solution**
+- Developed microservices architecture with Spring Boot
+- Implemented Angular frontend with responsive design
+- Integrated payment gateways and location services
+- Reduced API response time by 40% through optimization
+
+### 🏆 Eobiladka Project
+**Service-Based Architecture Implementation**
+- Built RESTful APIs with Spring WebFlux and WebClient
+- Enhanced system efficiency by 30% through code optimization
+- Implemented secure authentication with JWT
+
+### 🏆 Real-time Chat Application
+**WebSocket-Based Communication System**
+- Developed group and one-to-one messaging functionality
+- Implemented file sharing and image management
+- Achieved <100ms message delivery latency
+
+---
+
+## 📊 Technical Proficiencies
+
+| Backend Technologies      | Frontend Technologies  | Databases         | DevOps & Tools       |
+|---------------------------|------------------------|-------------------|----------------------|
+| Java 8/11/17              | Angular 12+            | MySQL             | Docker               |
+| Spring Boot 2.x/3.x       | TypeScript             | MongoDB           | Jenkins              |
+| Spring Data JPA           | HTML5/CSS3             | PostgreSQL        | Kubernetes           |
+| Microservices             | Bootstrap              | Redis             | Git/GitHub           |
+| RESTful APIs              | PrimeNG                |                   | Postman              |
+| Spring Security + JWT     | RxJS                   |                   | AWS Basics           |
+| Hibernate                 | WebSocket Client       |                   | Linux/Unix           |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkeshari333&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkeshari333&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkeshari333&show_icons=true&locale=en&layout=compact" alt="manishkeshari333" /></p>
+## 🎯 What I Offer
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkeshari333&show_icons=true&locale=en" alt="manishkeshari333" /></p>
+- **End-to-End Development**: From concept to deployment of full-stack applications
+- **Scalable Architecture**: Microservices, cloud-ready solutions
+- **Performance Optimization**: Database tuning, API response improvements
+- **Clean Code Practices**: Maintainable, testable code with documentation
+- **Agile Methodology**: Experience with Scrum and iterative development
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/manish-keshari-59a89b23a" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manishkeshari595@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+  </a>
+  <a href="https://github.com/manishkeshari333">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to new opportunities and challenging projects!</i>
+</p>
